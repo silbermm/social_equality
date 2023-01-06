@@ -3,7 +3,7 @@ defmodule SocialEqualityWeb.HomeLive do
 
   def render(assigns) do
     ~H"""
-    <h1> Social for Equality </h1>
+    <h1> Society for Equality </h1>
     """
   end
 end
